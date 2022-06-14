@@ -20,3 +20,12 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National 
 
 
 ## Tech I'm familiar with:
+
+[<img src="https://img.icons8.com/fluency/2x/mysql-logo.png"  width="45" height="50"/>]
+[<img src=""  width="45" height="50"/>]
+[<img src=""  width="45" height="50"/>]
+[<img src=""  width="45" height="50"/>]
+[<img src=""  width="45" height="50"/>]
+[<img src=""  width="45" height="50"/>]
+[<img src=""  width="45" height="50"/>]
+
