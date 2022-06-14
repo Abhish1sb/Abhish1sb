@@ -11,7 +11,7 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 <em><b>I love connecting with different people</b> so if you want to say <b>Lets go together,grow together and succeed together</b> :)</em>
 
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abhishek-singh-bhadauria-9297b9220/)
+[<img src="https://img.icons8.com/clouds/2x/linkedin.png"  width="45" height="50"/>](https://www.linkedin.com/in/abhishek-singh-bhadauria-9297b9220/)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/abhish1bhadauria/?hl=en)
 [<img src="https://img.icons8.com/clouds/2x/gmail.png"  width="45" height="50"/>](mailto:abhish1albodi@gmail.com)
 [<img src="https://img.icons8.com/clouds/2x/apple-phone.png"  width="45" height="50"/>](8058818154)
