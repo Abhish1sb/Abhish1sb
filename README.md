@@ -17,32 +17,32 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Third Year Student at JIIT-NOIDA
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 <img src="https://media.giphy.com/media/1gWjDmsPvOA4NjXTbh/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Lets go together,grow together and succeed together</b> :)</em>
 
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/mohit-l-a75076108/)
-[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/mohit_200008)
-[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/mohitlamba12)
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abhishek-singh-bhadauria-9297b9220/)
+[<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/abhish1bhadauria/?hl=en)
+//[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>]()
 <br />
 
-<summary><h2>Github Stats 📈:</h2></summary>
+//<summary><h2>Github Stats 📈:</h2></summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohit200008&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit200008&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
+//<img src="https://github-readme-stats.vercel.app/api?username=mohit200008&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit200008&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
 
-<details align="center">
-  <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohit200008&theme=xcode" />
-</p>
-</details>
+//<details align="center">
+//  <summary>GitHub Activity Graph 📈</summary>
+//<p align="center">
+//  <img src="https://activity-graph.herokuapp.com/graph?username=mohit200008&theme=xcode" />
+//</p>
+//</details>
 
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohit200008&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
-  </a>
-</p>
-</details>
+//<details align="center">
+ // <summary>GitHub Trophies 🏆</summary>
+//<p align="center">
+  //<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+   // <img src="https://github-profile-trophy.vercel.app/?username=mohit200008&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+  //</a>
+//</p>
+//</details>
 
-<p><code><img height="20" src="https://komarev.com/ghpvc/?username=mohit200008&color=blue"></code></p>
+//<p><code><img height="20" src="https://komarev.com/ghpvc/?username=mohit200008&color=blue"></code></p>
 
 <!--   
  funfact: "I love coding+eating+repeating"
