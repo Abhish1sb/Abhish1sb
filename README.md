@@ -7,12 +7,6 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Third Year Student at JIIT-NOIDA
 
 
 
-<p align="center">
-  <a>
-   <img height="200" width="200" src="https://octodex.github.com/images/Fintechtocat.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohit200008&theme=highcontrast"/>
-   <img height="180" width="160" src="https://octodex.github.com/images/inspectocat.jpg">
-</p>
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 <img src="https://media.giphy.com/media/1gWjDmsPvOA4NjXTbh/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Lets go together,grow together and succeed together</b> :)</em>
@@ -23,4 +17,4 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Third Year Student at JIIT-NOIDA
 <br />
 
 
-//## Tech I'm familiar with.
+## Tech I'm familiar with.
