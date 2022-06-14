@@ -50,6 +50,7 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Third Year Student at JIIT-NOIDA
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: He/His 
 ## Tech I'm familiar with...
-<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" src="https://skillsite.netlify.app/react.png" />
-<br />
--->
+//<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  //src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" //src="https://skillsite.netlify.app/react.png" />
+//<br />
+//-->
+## Tech I'm familiar with.
