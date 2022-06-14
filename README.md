@@ -1,4 +1,4 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> </h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" width="50" height="50"> </h2>
  <h2> Hi, I'm Abhishek Singh Bhadauria</h2>
 
 
