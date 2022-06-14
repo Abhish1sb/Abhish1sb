@@ -22,35 +22,5 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Third Year Student at JIIT-NOIDA
 //[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>]()
 <br />
 
-//<summary><h2>Github Stats 📈:</h2></summary>
 
-//<img src="https://github-readme-stats.vercel.app/api?username=mohit200008&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a"> //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit200008&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css)
-
-//<details align="center">
-  <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohit200008&theme=xcode" />
-</p>
-</details>
-
-//<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohit200008&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
-  </a>
-</p>
-  </details>
-
-//<p><code><img height="20" src="https://komarev.com/ghpvc/?username=mohit200008&color=blue"></code></p>
-
-<!--   
- funfact: "I love coding+eating+repeating"
-- 🔭 I’m currently working on Front End Web Development
-- 🌱 I’m currently learning MERN stack
-- 😄 Pronouns: He/His 
-## Tech I'm familiar with...
-//<img height="80" src="https://skillsite.netlify.app/python.png"/> <img height="80" src="https://skillsite.netlify.app/C++.png"/> <img height="80"  //src="https://skillsite.netlify.app/C.png"/> <img height="80" src="https://skillsite.netlify.app/Js.png" /> <img height="90" //src="https://skillsite.netlify.app/react.png" />
-<br />
--->
 //## Tech I'm familiar with.
