@@ -14,8 +14,8 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National 
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abhishek-singh-bhadauria-9297b9220/)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/abhish1bhadauria/?hl=en)
 [<img src="https://img.icons8.com/clouds/2x/gmail.png"  width="42" height="50"/>](mailto:abhish1albodi@gmail.com)
-[<img src="https://img.icons8.com/clouds/2x/apple-phone.png"  width="42" height="50"/>](:8058818154)
-
+[<img src="https://img.icons8.com/clouds/2x/apple-phone.png"  width="42" height="50"/>]
+:(+91)8058818154
 
 <br />
 
