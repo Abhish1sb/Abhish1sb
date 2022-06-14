@@ -24,8 +24,9 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National 
 [<img src="https://img.icons8.com/fluency/2x/mysql-logo.png"  width="45" height="50"/>]
 [<img src="https://img.icons8.com/color/2x/python.png"  width="45" height="50"/>]
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"  width="45" height="50"/>]
-[<img src=""  width="45" height="50"/>]
-[<img src=""  width="45" height="50"/>]
-[<img src=""  width="45" height="50"/>]
-[<img src=""  width="45" height="50"/>]
+[<img src="https://img.icons8.com/color/2x/tableau-software.png"  width="45" height="50"/>]
+[<img src="https://img.icons8.com/ios/2x/html.png"  width="45" height="50"/>]
+[<img src="https://img.icons8.com/ios/2x/css.png"  width="45" height="50"/>]
+[<img src="https://img.icons8.com/color/2x/solidworks.png"  width="45" height="50"/>]
+[<img src="https://img.icons8.com/ios/2x/javascript.png"  width="45" height="50"/>]
 
