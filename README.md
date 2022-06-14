@@ -16,7 +16,7 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National 
 
 [<img src="https://img.icons8.com/color/2x/gmail.png"/>](mailto:abhish1albodi@gmail.com)
 
-PHONE NUMBER: 8058818154
+(PHONE NUMBER: 8058818154)
 <br />
 
 
