@@ -13,8 +13,8 @@ Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/abhishek-singh-bhadauria-9297b9220/)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/abhish1bhadauria/?hl=en)
-## EMAIL: abhish1albodi@gmail.com
-## PHONE NUMBER: 8058818154
+EMAIL: abhish1albodi@gmail.com
+PHONE NUMBER: 8058818154
 <br />
 
 
