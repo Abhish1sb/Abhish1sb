@@ -1,8 +1,7 @@
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm MOHIT LAMBA</h2>
+<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Abhishek Singh Bhadauria</h2>
 
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='200"'>
 
-Hi, my name is Mohit Lamba. I am a Third Year Student at JIIT-NOIDA pursuing my Bachelor's Degree in INFORMATION TECHNOLOGY. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile.I believe in exploring,learning and building something new and unique and looking forward to contribute my skills into something valuable with a tremendous effect.
+Hi, my name is Abhishek Singh Bhadauria. I am a Third Year Student at JIIT-NOIDA pursuing my Bachelor's Degree in INFORMATION TECHNOLOGY. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I am a Web Developer. I love playing around with web design and hopefully creating something that makes people smile.I believe in exploring,learning and building something new and unique and looking forward to contribute my skills into something valuable with a tremendous effect.
 
 
 
