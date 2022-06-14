@@ -1,5 +1,4 @@
-<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" width="50" height="50"> </h2>
- <h2> Hi, I'm Abhishek Singh Bhadauria</h2>
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" width="50" height="60">  Hi, I'm Abhishek Singh Bhadauria</h2>
 
 
 Hi, my name is Abhishek Singh Bhadauria. I am a Fourth Year Student at National Institiue of Technology, Agartala pursuing my Bachelor's Degree in MECHANICAL ENGINEERING. I like to code things from scratch, and enjoy bringing ideas to life in the browser. I love playing around with web design and hopefully creating something that makes people smile.I believe in exploring,learning and building something new and unique and looking forward to contribute my skills into something valuable with a tremendous effect.
